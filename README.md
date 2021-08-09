@@ -3,7 +3,7 @@ Welcome! This is Avinash
 
 Enjoying a cup of coffee, while I code my way through the madness
 
-- Launched @dictionaryios on testflight app store which rose to populartiy quickly. Appstore launch in Aug'21
+- Launched @dictionaryios on testflight app store which rose to popularity quickly. Appstore launch in Aug'21
 https://app.airport.community/app/recWSpTE1WkjXteu5
 
      Follow us at https://twitter.com/dictionaryios
