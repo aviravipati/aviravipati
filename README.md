@@ -6,7 +6,9 @@ Enjoying a cup of coffee, while I code my way through the madness
 - Launched @dictionaryios on testflight app store which rose to popularity quickly. Appstore launch in Aug'21
 https://app.airport.community/app/recWSpTE1WkjXteu5
 
-     Follow us at https://twitter.com/dictionaryios
+     Follow us at 
+     https://twitter.com/dictionaryios
+     https://iosdictionary.com
 
 - 🌱 Enthusiastically learning AWS, SnowFlake, AirFlow data pipelines, to name a few. 
      Since everyone in on the next thing Machine Learning, let's throw that in the mix 😄
