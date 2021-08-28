@@ -4,7 +4,7 @@ Welcome! This is Avinash
 Enjoying a cup of coffee, while I code my way through the madness
 
 - Launched @dictionaryios on testflight app store which rose to popularity quickly. Appstore launch in Aug'21
-https://app.airport.community/app/recWSpTE1WkjXteu5
+https://apps.apple.com/app/english-dictionary-words/id1576797920
 
      Follow us at 
      https://twitter.com/dictionaryios
