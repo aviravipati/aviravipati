@@ -3,7 +3,9 @@ Welcome! This is Avinash
 
 Enjoying a cup of coffee, while I code my way through the madness
 
-- Launched @dictionaryios on testflight app store which rose to popularity quickly. Appstore launch in Aug'21
+- Launched @dictionaryios, which rose to popularity quickly on test flight Appstore. 
+
+Available to download at 
 https://apps.apple.com/app/english-dictionary-words/id1576797920
 
      Follow us at 
