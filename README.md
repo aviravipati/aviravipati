@@ -13,10 +13,8 @@ https://apps.apple.com/app/english-dictionary-words/id1576797920
      https://iosdictionary.com
 
 - 🌱 Enthusiastically learning AWS, SnowFlake, AirFlow data pipelines, to name a few. 
-     Since everyone in on the next thing Machine Learning, let's throw that in the mix 😄
      
 - 🔭 Currently working on creating a personal assistant using AirFlow and AWS, more on this later !! 
-
 
 <!--
 **aviravipati/aviravipati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
