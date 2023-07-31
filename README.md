@@ -11,10 +11,10 @@ https://apps.apple.com/app/english-dictionary-words/id1576797920
      Follow us at 
      https://twitter.com/dictionaryios
      https://iosdictionary.com
-
-- 🌱 Enthusiastically learning AWS, SnowFlake, AirFlow data pipelines, to name a few. 
+- Helped launch @Lexa AI chatbot
+  https://apps.apple.com/us/app/lexa-ai/id1669405593
+  
      
-- 🔭 Currently working on creating a personal assistant using AirFlow and AWS, more on this later !! 
 
 <!--
 **aviravipati/aviravipati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
