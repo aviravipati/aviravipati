@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome! This is Avinash
+Welcome! This is Avinash, follow my journey at avinashravipati.com
 
 Enjoying a cup of coffee, while I code my way through the madness
 
